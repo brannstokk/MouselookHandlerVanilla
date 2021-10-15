@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: MouselookHandlerVanilla
+## Notes: Allows controlling when mouselook is started and stopped in 1.12 client.
+## Author: jlucas
+## Version: 1.0
+## SavedVariables: MouselookHandlerDB
+
+embeds.xml
+
+MouselookHandlerVanilla.lua
+
