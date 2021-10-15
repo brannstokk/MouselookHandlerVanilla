@@ -1,6 +1,6 @@
 .PHONY: zip checktag checkdir clean
 
-ADDON=DTRTPotions
+ADDON=MouselookHandlerVanilla
 TAG=$(shell git describe --tags)
 FILES=\
 	${ADDON}/${ADDON}.lua \
